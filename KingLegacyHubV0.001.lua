@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/XproDevApril/KingLegacyHUB0.01/main/KingLegacy.lua
+https://raw.githubusercontent.com/XproDevApril/KingLegacyHUB/main/KingLegacyHubV001
